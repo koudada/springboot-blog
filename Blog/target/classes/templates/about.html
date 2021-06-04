@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>我的故事</title>
+    <link rel="shortcut icon" th:href="@{/images/favicon.ico}" th:src="@{/images/favicon.ico}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/semantic-ui/2.2.4/semantic.min.css">
+    <link rel="stylesheet" href="jquery.mCustomScrollbar.css">
+    <link rel="stylesheet" href="../static/css/me.css" th:href="@{/css/me.css}">
+    <link rel="stylesheet" href="../static/css/animate.css" th:href="@{/css/animate.css}">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.2/dist/jquery.min.js"></script>
+    <script src="jquery.mCustomScrollbar.concat.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+
+        }
+        body {
+            background-color: rgba(241,243,244,.7);
+        }
+        li {
+            list-style: none;
+        }
+        .hide {
+            display: block;
+        }
+        .m-text {
+            /*大小*/
+         font-size: 16px;
+            /*字间距*/
+            letter-spacing: 1px !important;
+            /*行间距*/
+            line-height: 1.8;
+
+            font-family: 楷体;
+        }
+
+
+
+        .my-content {
+            width: 90%;
+            margin: 30px auto;
+
+        }
+
+        .my-container {
+            width: 90%;
+
+            margin: 0 auto;
+            overflow: hidden;
+        }
+
+        .my-container .my-content_left {
+            float: left;
+            width: 35%;
+            height: 100%;
+        }
+        .my-content_left .saying {
+            width: 90%;
+            position: relative;
+            /*height: 100px;*/
+            padding: 15px;
+            background: url("./images/greek-vase.png") no-repeat 0 0;
+            margin: 20px auto;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+
+        }
+
+        .my-content_left .my_saying {
+            background: url("./images/geometric-leaves.png") no-repeat 0 0;
+        }
+        .my-content_left .saying .author {
+            position: absolute;
+            right: 10px;
+            bottom: 10px;
+        }
+        .my-container .my-content_right {
+            float: right;
+            margin-top: 20px;
+            width: 60%;
+
+            text-align: center;
+        }
+        .my-content_right .main_info p{
+                text-indent: 2em;
+            margin: 20px auto;
+        }
+        .my-content_right .hobby ul{
+            border-left: 4px #00B5AD solid;
+            text-align: left!important;
+
+        }
+        .my-content_right .hobby p {
+         text-indent: 0 !important;
+            margin-left: 20px;
+        }
+        .my-content_right .skill ul{
+            border-left: 4px #00B5AD solid;
+            text-align: left!important;
+        }
+        .my-content_right .skill p {
+            text-indent: 0 !important;
+            margin-left: 20px;
+        }
+        .my-container .my-content_right p {
+            font-size: 16px;
+            font-weight: 300;
+            line-height: 1.8;
+            text-align: justify;
+            text-indent: 2em;
+        }
+
+        .my-container .my-content_right img {
+            width: 300px;
+            height: 250px;
+            border-radius: 5px;
+
+        }
+        .mood_my-container p {
+
+            margin-left: 20px;
+            font-family: 楷体;
+            font-size: 18px;
+
+        }
+        ._mCS_1 .mCSB_scrollTools .mCSB_dragger_bar{
+            width:11px;
+        }
+    </style>
+    <script>
+        $(function () {
+            $("body").mCustomScrollbar();
+
+
+
+        })
+    </script>
+
+
+</head>
+<body data-mcs-theme="minimal-dark">
+
+<nav th:replace="fragment :: menu(5)"></nav>
+<div class="my-content ">
+    <div class="my-container">
+        <div class="my-content_left  animated slideInLeft">
+            <div class="saying my_saying" style="text-align: center;">
+                <p> 寇门贤良宰相家，清泊轻霜冰上加</p>
+                <p> 海天一色博游客，爱寥深木闭烟霞</p>
+                <p> 你山流水情三弄，永燥古魁疏叶下</p>
+                <p> 不草袍襟翻日脚，变晋江山称永嘉</p>
+                <div class="author">---KDD</div>
+            </div>
+            <div class="saying m-text" >
+                <p>有什么就害怕失去它。一无所有，又担心会永远一无所有。每个人都一样</p>
+                <div class="author">---村上春树</div>
+            </div>
+            <div class="saying m-text">
+                <p>我住长江头，君住长江尾。</p>
+                <p>日日思君不见君，共饮长江水。</p>
+                <p>此水几时休，此恨何时已。</p>
+                <p>只愿君心似我心，定不负相思意</p>
+                <div class="author">卜算子--李之仪</div>
+            </div>
+
+
+            <div class="saying m-text">
+                <p>众里寻他千百度，蓦然回首，那人却在灯火阑珊处</p>
+                <div class="author">---辛弃疾</div>
+            </div>
+            <div class="saying m-text">
+                <p>有些人浅薄，有些人金玉其外而败絮其中，总有一天，你会遇到有一个彩虹般绚烂的人，在这之后，会觉得其他人都只是浮云而已。</p>
+                <div class="author">---—《怦然心动》</div>
+            </div>
+        </div>
+        <div class="my-content_right  animated slideInRight ">
+            <img src="./images/avatar.jpg" alt="关于我">
+            <div class="main_info">
+                <p> 寇清海，四川人，一个计科专业学生，大三在读，面临实习，目前在学习后端，前端也略懂复制粘贴的精髓，网页审美水平有限！！！</p>
+
+            </div>
+
+            <div class="hobby">
+                <h3 style="font-weight: 400">爱好</h3>
+                <ul>
+                    <li><p>喜欢玩游戏听别人说我nb</p></li>
+                    <li><p>看电影（中日韩美英）</p></li>
+                    <li><p>喜欢漫威</p></li>
+                    <li><p>迪丽热巴</p></li>
+                    <li><p>特摄</p></li>
+                    <li><p>cv</p></li>
+                </ul>
+            </div>
+
+            <div class="skill">
+                <h3 style="font-weight: 400">了解的技术</h3>
+                <ul>
+                    <li><p>后端：SSM+Springboot</p></li>
+                    <li><p>前端：Html+Css+Js+Jquery</p></li>
+                    <li><p>数据库：Mysql、redis</p></li>
+                    <li><p>其他：Linux基础语法</p></li>
+                </ul>
+            </div>
+
+
+
+            </div>
+
+
+        </div>
+
+    </div>
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<footer th:replace="fragment :: footer"></footer>
+</body>
+</html>

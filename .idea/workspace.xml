@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6828635e-6790-4b72-887a-9b136a22d26e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Blog/src/main/resources/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/main/resources/static/images/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/main/resources/static/images/avatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/main/resources/static/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/main/resources/static/images/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/main/resources/static/images/weChat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/main/resources/static/images/weChat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/main/resources/templates/admin/admin-fragment.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/main/resources/templates/admin/admin-fragment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/main/resources/templates/admin/admin-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/main/resources/templates/admin/admin-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/main/resources/templates/fragment.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/main/resources/templates/fragment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/main/resources/templates/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/main/resources/templates/tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tCYtu8FEW506J9BiN4ijPYMWw4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.blog.BlogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6828635e-6790-4b72-887a-9b136a22d26e" name="Default Changelist" comment="" />
+      <created>1622274756122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622274756122</updated>
+      <workItem from="1622274760648" duration="3043000" />
+      <workItem from="1622290793348" duration="1226000" />
+      <workItem from="1622349101019" duration="697000" />
+      <workItem from="1622361305742" duration="6811000" />
+      <workItem from="1622368957953" duration="1710000" />
+      <workItem from="1622518417978" duration="373000" />
+      <workItem from="1622618047694" duration="1171000" />
+      <workItem from="1622619277969" duration="7353000" />
+      <workItem from="1622680261435" duration="5725000" />
+      <workItem from="1622686068739" duration="2498000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Blog" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622275865941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1622275865941" />
+    <state x="498" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622364146102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1622364146102" />
+    <state x="388" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1622618481377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="388" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1622618481377" />
+    <state x="623" y="151" key="FileChooserDialogImpl" timestamp="1622619022068">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="623" y="151" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622619022068" />
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1622688923032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622688923032" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1622688923032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622688923032" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1622688923031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622688923031" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1622688923032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622688923032" />
+    <state width="1493" height="218" key="GridCell.Tab.1.bottom" timestamp="1622688420665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622688420665" />
+    <state width="1493" height="218" key="GridCell.Tab.1.center" timestamp="1622688420665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1622688420665" />
+    <state width="1493" height="218" key="GridCell.Tab.1.left" timestamp="1622688420665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1622688420665" />
+    <state width="1493" height="218" key="GridCell.Tab.1.right" timestamp="1622688420665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1622688420665" />
+    <state x="512" y="114" key="RollbackChangesDialog" timestamp="1622618377845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="114" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1622618377845" />
+    <state x="32" y="0" key="SettingsEditor" timestamp="1622618707017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="32" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622618707017" />
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622618447179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1622618447179" />
+    <state x="252" y="71" key="new project wizard" timestamp="1622619071467">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="252" y="71" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1622619071467" />
+    <state x="457" y="130" width="672" height="678" key="search.everywhere.popup" timestamp="1622684009989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="130" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1622684009989" />
+  </component>
+</project>
